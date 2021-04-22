@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <korisnickiracun>
+    <id>1</id>
+    <username>ivan</username>
+    <password>Ivan</password>
+  </korisnickiracun>
+  <korisnickiracun>
+    <id>2</id>
+    <username>marin</username>
+    <password>Marin</password>
+  </korisnickiracun>
+  <korisnickiracun>
+    <id>3</id>
+    <username>marinko</username>
+    <password>Marinko</password>
+  </korisnickiracun>
+  <korisnickiracun>
+    <id>4</id>
+    <username>karlo</username>
+    <password>Karlo</password>
+  </korisnickiracun>
+</config>

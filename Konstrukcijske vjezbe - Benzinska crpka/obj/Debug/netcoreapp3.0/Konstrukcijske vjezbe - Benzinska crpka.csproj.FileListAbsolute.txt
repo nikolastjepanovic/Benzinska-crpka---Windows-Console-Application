@@ -1,0 +1,13 @@
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\bin\Debug\netcoreapp3.0\Konstrukcijske vjezbe - Benzinska crpka.exe
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\bin\Debug\netcoreapp3.0\Konstrukcijske vjezbe - Benzinska crpka.deps.json
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\bin\Debug\netcoreapp3.0\Konstrukcijske vjezbe - Benzinska crpka.runtimeconfig.json
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\bin\Debug\netcoreapp3.0\Konstrukcijske vjezbe - Benzinska crpka.runtimeconfig.dev.json
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\bin\Debug\netcoreapp3.0\Konstrukcijske vjezbe - Benzinska crpka.dll
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\bin\Debug\netcoreapp3.0\Konstrukcijske vjezbe - Benzinska crpka.pdb
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\obj\Debug\netcoreapp3.0\Konstrukcijske vjezbe - Benzinska crpka.csprojAssemblyReference.cache
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\obj\Debug\netcoreapp3.0\Konstrukcijske vjezbe - Benzinska crpka.AssemblyInfoInputs.cache
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\obj\Debug\netcoreapp3.0\Konstrukcijske vjezbe - Benzinska crpka.AssemblyInfo.cs
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\obj\Debug\netcoreapp3.0\Konstrukcijske vjezbe - Benzinska crpka.dll
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\obj\Debug\netcoreapp3.0\Konstrukcijske vjezbe - Benzinska crpka.pdb
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\bin\Debug\netcoreapp3.0\racuni.xml
+C:\Users\Zdenka\Desktop\OP - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\Konstrukcijske vjezbe - Benzinska crpka\bin\Debug\netcoreapp3.0\spremnici.xml

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Racuni>
+  <Racun>
+    <datumkreiranja>16.1.2020. 11:20:53</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>750</kolicinagoriva>
+    <cijenagoriva>7237,5</cijenagoriva>
+    <idzaposlenika>1</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>16.1.2020. 11:21:45</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>2500</kolicinagoriva>
+    <cijenagoriva>24125</cijenagoriva>
+    <idzaposlenika>1</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>16.1.2020. 11:22:34</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>230</kolicinagoriva>
+    <cijenagoriva>2219,5</cijenagoriva>
+    <idzaposlenika>3</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>16.1.2020. 11:22:39</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>120</kolicinagoriva>
+    <cijenagoriva>1053,6</cijenagoriva>
+    <idzaposlenika>3</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>1.1.2010. 13:36:53</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>230</kolicinagoriva>
+    <cijenagoriva>2019,3999999999999</cijenagoriva>
+    <idzaposlenika>2</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>18.10.2019. 14:27:44</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>25</kolicinagoriva>
+    <cijenagoriva>241,25</cijenagoriva>
+    <idzaposlenika>4</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>18.1.2020. 14:27:49</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>15</kolicinagoriva>
+    <cijenagoriva>131,7</cijenagoriva>
+    <idzaposlenika>4</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>31.1.2020. 16:04:20</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>35</kolicinagoriva>
+    <cijenagoriva>337,75</cijenagoriva>
+    <idzaposlenika>4</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>31.1.2020. 16:04:25</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>15</kolicinagoriva>
+    <cijenagoriva>131,7</cijenagoriva>
+    <idzaposlenika>4</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>31.1.2020. 16:05:57</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>35</kolicinagoriva>
+    <cijenagoriva>337,75</cijenagoriva>
+    <idzaposlenika>3</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>31.1.2020. 16:06:01</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>120</kolicinagoriva>
+    <cijenagoriva>1053,6</cijenagoriva>
+    <idzaposlenika>3</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>1.10.2000. 16:06:18</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>120</kolicinagoriva>
+    <cijenagoriva>1053,6</cijenagoriva>
+    <idzaposlenika>2</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>8.9.2000. 16:06:22</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>15</kolicinagoriva>
+    <cijenagoriva>144,75</cijenagoriva>
+    <idzaposlenika>2</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 7:58:05</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>20</kolicinagoriva>
+    <cijenagoriva>175,6</cijenagoriva>
+    <idzaposlenika>1</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 7:59:42</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>25</kolicinagoriva>
+    <cijenagoriva>241,25</cijenagoriva>
+    <idzaposlenika>4</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 7:59:45</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>25</kolicinagoriva>
+    <cijenagoriva>241,25</cijenagoriva>
+    <idzaposlenika>4</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 8:00:09</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>25</kolicinagoriva>
+    <cijenagoriva>219,49999999999997</cijenagoriva>
+    <idzaposlenika>4</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 8:36:56</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>15</kolicinagoriva>
+    <cijenagoriva>144,75</cijenagoriva>
+    <idzaposlenika>2</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 8:36:59</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>25</kolicinagoriva>
+    <cijenagoriva>219,49999999999997</cijenagoriva>
+    <idzaposlenika>2</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 8:37:25</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>25</kolicinagoriva>
+    <cijenagoriva>219,49999999999997</cijenagoriva>
+    <idzaposlenika>4</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 8:37:30</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>35</kolicinagoriva>
+    <cijenagoriva>337,75</cijenagoriva>
+    <idzaposlenika>4</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 9:21:39</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>25</kolicinagoriva>
+    <cijenagoriva>241,25</cijenagoriva>
+    <idzaposlenika>1</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 10:20:42</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>100</kolicinagoriva>
+    <cijenagoriva>790,1999999999999</cijenagoriva>
+    <idzaposlenika>1</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 10:22:15</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>150</kolicinagoriva>
+    <cijenagoriva>1185,3</cijenagoriva>
+    <idzaposlenika>1</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 10:23:24</datumkreiranja>
+    <nazivgoriva>benzin</nazivgoriva>
+    <kolicinagoriva>100</kolicinagoriva>
+    <cijenagoriva>820,25</cijenagoriva>
+    <idzaposlenika>1</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>3.2.2020. 10:35:53</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>101</kolicinagoriva>
+    <cijenagoriva>798,102</cijenagoriva>
+    <idzaposlenika>2</idzaposlenika>
+  </Racun>
+  <Racun>
+    <datumkreiranja>22.4.2021. 22:40:22</datumkreiranja>
+    <nazivgoriva>dizel</nazivgoriva>
+    <kolicinagoriva>25</kolicinagoriva>
+    <cijenagoriva>219,49999999999997</cijenagoriva>
+    <idzaposlenika>1</idzaposlenika>
+  </Racun>
+</Racuni>
